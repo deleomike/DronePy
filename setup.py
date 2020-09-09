@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="DronePy", # Replace with your own username
+    name="DronePy-Squish", # Replace with your own username
     version="0.0.1",
     author="Michael DeLeo",
     author_email="michaeldeleo31@yahoo.com",
