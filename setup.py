@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Michael DeLeo",
     author_email="michaeldeleo31@yahoo.com",
-    description="An open source Drone Interface Library",
+    description="An open source Hobbyist Drone Interface Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/deleomike/DronePy",
