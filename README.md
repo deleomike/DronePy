@@ -38,7 +38,7 @@ dev = myDevice()
 
 ```
 
-Controller your model with your device
+Control your model with your device
 
 ```python
 
@@ -60,16 +60,19 @@ It is being considered whether to add functionality to sample signals and auto-g
 
 ## Supported Devices
 
-<ol>
-<li>LimeSDR</li>
-<i>LimeSDR Mini</li>
-</ol>
+LimeSDR : [Setup](https://wiki.myriadrf.org/LimeSDR-USB) <br>
+LimeSDR Mini
 
 ## Supported Drones
 
 <ol>
 <li>DX-2</li>
 </ol>
+
+## Depends on
+
+[SoapySDR](https://github.com/pothosware/SoapySDR/wiki)<br>
+[pyLMS7002Soapy](https://github.com/myriadrf/pyLMS7002Soapy/blob/master/pyLMS7002Soapy/__init__.py)
 
 NOT STABLE YET
 For Updates.... [Link](https://github.com/deleomike/DronePy)

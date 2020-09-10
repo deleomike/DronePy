@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="DronePy", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Michael DeLeo",
     author_email="michaeldeleo31@yahoo.com",
-    description="An open source Hobbyist Drone Interface Library",
+    description="Open Source Drone Interface Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/deleomike/DronePy",
@@ -26,4 +26,7 @@ setuptools.setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     python_requires='>=3.6',
+    install_requires=['numpy',
+                      'matplotlib',
+                      'pyserial']
 )
