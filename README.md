@@ -9,5 +9,18 @@ DronePy will allow a programmer to select their drone model, and their preferred
 
 It is being considered whether to add functionality to sample signals and auto-generate models.
 
+## Supported Devices
+
+<ol>
+<li>LimeSDR</li>
+<i>LimeSDR Mini</li>
+</ol>
+
+## Supported Drones
+
+<ol>
+<li>DX-2</li>
+</ol>
+
 NOT STABLE YET
 For Updates.... [Link](https://github.com/deleomike/DronePy)
